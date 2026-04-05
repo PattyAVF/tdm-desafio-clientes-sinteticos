@@ -1,0 +1,73 @@
+
+dataset: clientes_no_productivo
+version: 1.0
+description: Dataset sintético bancario con catálogos, reglas de calidad y campos sensibles
+catalogos:
+  estado_cliente:
+    - ACTIVO
+    - INACTIVO
+
+tables:
+  clientes:
+    primary_key: customer_id
+
+    columns:
+
+      customer_id:
+        type: string
+        required: true
+        unique: true
+        pattern: "^CUS[0-9]{3}$"
+
+      nombre:
+        type: string
+        required: true
+        length: 50
+        sensitive: true
+
+      apellido:
+        type: string
+        required: true
+        length: 50
+        sensitive: true
+
+      cedula:
+        type: string
+        required: true
+        length: 10
+        pattern: "^[0-9]{10}$"
+        sensitive: true
+
+      fecha_nacimiento:
+        type: date
+        required: true
+        min_age: 18
+        max_age: 90
+        format: "dd-MM-yyyy"
+
+      email:
+        type: string
+        required: true
+        format: email
+        sensitive: true
+
+      direccion:
+        type: string
+        required: true
+        length: 100
+        sensitive: true
+
+      telefono:
+        type: string
+        required: true
+        pattern: "^[0-9]{10}$"
+        sensitive: true
+
+      fecha_creacion:
+        type: timestamp
+        required: true
+
+      estado_cliente:
+        type: string
+        required: true
+        catalog: estado_cliente

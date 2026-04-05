@@ -1,8 +1,15 @@
 
 dataset: clientes_no_productivo
-version: 1.0
-description: Dataset sintético bancario con catálogos, reglas de calidad y campos sensibles
+version: 1.1
+description: Dataset sintético bancario con soporte multidentificación (EC) y validación cruzada
+owner: Unidad de Entornos No Productivos
+
 catalogos:
+  tipo_identificacion:
+    - CEDULA
+    - RUC
+    - PASAPORTE
+
   estado_cliente:
     - ACTIVO
     - INACTIVO
@@ -12,62 +19,91 @@ tables:
     primary_key: customer_id
 
     columns:
-
       customer_id:
         type: string
         required: true
         unique: true
-        pattern: "^CUS[0-9]{3}$"
+        pattern: "^Cus[0-9]{3}$"
+        description: Identificador único autosecuencial del cliente
+
+      tipo_identificacion:
+        type: string
+        required: true
+        catalog: tipo_identificacion
+        description: Define la regla de validación para el campo identificacion
+
+      identificacion:
+        type: string
+        required: true
+        unique: true
+        sensitive: true
+        description: Número de identificación sintético según tipo documental
+        rules:
+          - if: "tipo_identificacion == 'CEDULA'"
+            pattern: "^[0-9]{10}$"
+            validator: "modulo_10_ecuador"
+
+          - if: "tipo_identificacion == 'RUC'"
+            pattern: "^[0-9]{13}$"
+            validator: "modulo_10_o_13_ruc"
+
+          - if: "tipo_identificacion == 'PASAPORTE'"
+            pattern: "^[A-Z0-9]{3,15}$"
+            description: Alfanumérico estándar internacional
 
       nombre:
         type: string
         required: true
-        length: 50
+        max_length: 50
         sensitive: true
+        description: Nombre sintético del cliente
 
       apellido:
         type: string
         required: true
-        length: 50
+        max_length: 50
         sensitive: true
-
-      cedula:
-        type: string
-        required: true
-        length: 10
-        pattern: "^[0-9]{10}$"
-        sensitive: true
+        description: Apellido sintético del cliente
 
       fecha_nacimiento:
         type: date
         required: true
         min_age: 18
         max_age: 90
-        format: "dd-MM-yyyy"
+        format: "%d-%m-%Y"
+        sensitive: true
+        description: Fecha de nacimiento válida para clientes entre 18 y 90 años
 
       email:
         type: string
         required: true
         format: email
         sensitive: true
-
-      direccion:
-        type: string
-        required: true
-        length: 100
-        sensitive: true
+        description: Correo electrónico sintético del cliente
 
       telefono:
         type: string
         required: true
-        pattern: "^[0-9]{10}$"
+        pattern: "^09[0-9]{8}$"
         sensitive: true
+        description: Teléfono celular sintético del cliente
+
+      direccion:
+        type: string
+        required: true
+        max_length: 100
+        sensitive: true
+        description: Dirección física del cliente
 
       fecha_creacion:
         type: timestamp
         required: true
+        format: "%d/%m/%Y %H:%M:%S"
+        not_future: true
+        description: Fecha y hora de creación del registro
 
       estado_cliente:
         type: string
         required: true
         catalog: estado_cliente
+        description: Estado lógico del cliente

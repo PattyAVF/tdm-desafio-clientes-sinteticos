@@ -1,0 +1,401 @@
+customer_id,tipo_identificacion,identificacion,nombre,apellido,fecha_nacimiento,email,telefono,direccion,fecha_creacion,estado_cliente
+Cus001,PASAPORTE,5O1CE7B5,Pedro,Mora,17/10/1995,pedro.mora1@testmail.com,0993632280,"Av. Colón N9945 y Sucre, Ambato",07/04/2024 12:00:00,INACTIVO
+Cus002,CEDULA,1710967389,Juan,Gómez,17/06/1952,juan.gomez2@testmail.com,0975196537,"Calle Bolívar N512 y Sucre, Guayaquil",24/02/2023 12:00:00,INACTIVO
+Cus003,RUC,1718397506001,Carlos,Mora,12/09/1963,carlos.mora3@testmail.com,0908336014,"Calle Bolívar N1932 y Sucre, Cuenca",17/10/2024 12:00:00,ACTIVO
+Cus004,PASAPORTE,BF3KSCNL,María,Gómez,18/05/1982,maria.gomez4@testmail.com,0945576639,"Av. República N8883 y Naciones Unidas, Quito",30/08/2024 12:00:00,ACTIVO
+Cus005,RUC,1717759474001,Carlos,Mora,07/10/1983,carlos.mora5@testmail.com,0970192467,"Av. Shyris N8031 y Mariana de Jesús, Ambato",19/01/2023 12:00:00,INACTIVO
+Cus006,CEDULA,1751935170,Pedro,López,26/03/2003,pedro.lopez6@testmail.com,0971650817,"Av. Amazonas N7299 y 10 de Agosto, Manta",05/03/2024 12:00:00,INACTIVO
+Cus007,RUC,1718169459001,María,López,08/01/1976,maria.lopez7@testmail.com,0984554272,"Av. República N7274 y Orellana, Cuenca",20/10/2024 12:00:00,ACTIVO
+Cus008,PASAPORTE,BK9F6G8V,Ana,Mora,29/06/1983,ana.mora8@testmail.com,0999686506,"Calle Bolívar N2077 y Naciones Unidas, Quito",16/07/2024 12:00:00,ACTIVO
+Cus009,RUC,1701503557001,Pedro,Ramírez,26/03/1959,pedro.ramirez9@testmail.com,0918006605,"Calle Bolívar N7965 y Sucre, Guayaquil",09/07/2023 12:00:00,INACTIVO
+Cus010,RUC,1744380062001,María,López,25/02/1975,maria.lopez10@testmail.com,0993782369,"Av. 6 de Diciembre N9984 y Naciones Unidas, Ambato",22/12/2024 12:00:00,ACTIVO
+Cus011,CEDULA,1706309166,Lucía,Mora,16/11/1964,lucia.mora11@testmail.com,0968004721,"Av. Shyris N5514 y 10 de Agosto, Manta",07/08/2024 12:00:00,ACTIVO
+Cus012,PASAPORTE,S5RCGB07,Juan,Pérez,25/12/1960,juan.perez12@testmail.com,0918789005,"Av. Colón N2467 y Orellana, Guayaquil",09/10/2024 12:00:00,ACTIVO
+Cus013,RUC,1753492329001,Carlos,Ramírez,05/10/1996,carlos.ramirez13@testmail.com,0943025833,"Av. Amazonas N6651 y 10 de Agosto, Quito",12/12/2023 12:00:00,INACTIVO
+Cus014,CEDULA,1759047440,Ana,Torres,01/02/1943,ana.torres14@testmail.com,0930981107,"Av. 9 de Octubre N9249 y Naciones Unidas, Manta",30/04/2023 12:00:00,INACTIVO
+Cus015,RUC,1713433579001,Pedro,Vera,03/08/1941,pedro.vera15@testmail.com,0937011803,"Av. Naciones Unidas N1468 y Loja, Guayaquil",24/07/2023 12:00:00,INACTIVO
+Cus016,RUC,1730503354001,Pedro,López,06/11/1994,pedro.lopez16@testmail.com,0963784573,"Calle Bolívar N5853 y Patria, Guayaquil",11/06/2024 12:00:00,INACTIVO
+Cus017,RUC,1702732262001,Juan,López,17/05/1990,juan.lopez17@testmail.com,0928702294,"Av. Amazonas N9724 y Naciones Unidas, Manta",13/09/2024 12:00:00,ACTIVO
+Cus018,CEDULA,1743940999,Sofía,Gómez,06/07/1954,sofia.gomez18@testmail.com,0967895645,"Av. 9 de Octubre N7336 y Colón, Quito",15/11/2024 12:00:00,ACTIVO
+Cus019,CEDULA,1718442211,Ana,Pérez,30/03/1979,ana.perez19@testmail.com,0943321330,"Av. Amazonas N4840 y Naciones Unidas, Guayaquil",03/08/2024 12:00:00,ACTIVO
+Cus020,CEDULA,1719309583,Sofía,Vera,08/02/1944,sofia.vera20@testmail.com,0920207520,"Av. Amazonas N5434 y Patria, Cuenca",25/12/2024 12:00:00,ACTIVO
+Cus021,CEDULA,1732314388,Pedro,López,11/08/1945,pedro.lopez21@testmail.com,0943730535,"Calle Bolívar N8095 y Patria, Manta",28/06/2024 12:00:00,INACTIVO
+Cus022,CEDULA,1712527397,Ana,Pérez,19/06/1950,ana.perez22@testmail.com,0974881391,"Av. República N228 y Patria, Guayaquil",10/06/2023 12:00:00,INACTIVO
+Cus023,RUC,1723140131001,Lucía,Ramírez,21/03/1939,lucia.ramirez23@testmail.com,0978429533,"Calle Sucre N8528 y Colón, Ambato",02/05/2024 12:00:00,INACTIVO
+Cus024,PASAPORTE,2ZT15NYS,Luis,Torres,30/01/1983,luis.torres24@testmail.com,0985212004,"Av. 6 de Diciembre N4473 y Loja, Ambato",23/06/2024 12:00:00,INACTIVO
+Cus025,RUC,1728703214001,Sofía,Gómez,09/05/1940,sofia.gomez25@testmail.com,0903950888,"Av. 9 de Octubre N2797 y Orellana, Guayaquil",17/05/2023 12:00:00,INACTIVO
+Cus026,CEDULA,1739806816,Sofía,Martínez,11/07/1977,sofia.martinez26@testmail.com,0963622446,"Av. Colón N5565 y Loja, Cuenca",15/12/2024 12:00:00,ACTIVO
+Cus027,RUC,1713551727001,Pedro,Gómez,12/08/1947,pedro.gomez27@testmail.com,0984792705,"Av. República N6291 y Orellana, Quito",01/04/2023 12:00:00,INACTIVO
+Cus028,RUC,1706844709001,Lucía,López,11/01/1952,lucia.lopez28@testmail.com,0974091260,"Av. Colón N994 y Sucre, Quito",21/09/2024 12:00:00,ACTIVO
+Cus029,CEDULA,1728023258,Lucía,Gómez,13/06/1941,lucia.gomez29@testmail.com,0999800881,"Av. República N8964 y Orellana, Ambato",14/09/2024 12:00:00,ACTIVO
+Cus030,PASAPORTE,CCJZ8V9C,Luis,Vera,27/08/1996,luis.vera30@testmail.com,0982172952,"Av. 6 de Diciembre N7154 y Loja, Manta",11/10/2023 12:00:00,INACTIVO
+Cus031,PASAPORTE,LZONK6OQ,Carlos,López,08/02/1946,carlos.lopez31@testmail.com,0985597118,"Calle Sucre N4724 y Patria, Ambato",27/02/2023 12:00:00,INACTIVO
+Cus032,CEDULA,1717874729,María,Mora,21/05/1954,maria.mora32@testmail.com,0932681361,"Av. Shyris N6636 y 10 de Agosto, Cuenca",15/12/2023 12:00:00,INACTIVO
+Cus033,PASAPORTE,B938T8ZR,Juan,Mora,04/01/1965,juan.mora33@testmail.com,0996241324,"Av. Shyris N2213 y Colón, Guayaquil",20/02/2024 12:00:00,INACTIVO
+Cus034,PASAPORTE,G3SM48M2,María,Martínez,27/08/1991,maria.martinez34@testmail.com,0934382500,"Av. 9 de Octubre N9998 y Loja, Ambato",24/10/2024 12:00:00,ACTIVO
+Cus035,RUC,1714159496001,Carlos,Pérez,30/03/1989,carlos.perez35@testmail.com,0934942835,"Av. Colón N1094 y Sucre, Manta",17/12/2024 12:00:00,ACTIVO
+Cus036,RUC,1747642369001,Juan,Mora,25/04/1993,juan.mora36@testmail.com,0903242234,"Av. 6 de Diciembre N7588 y Sucre, Ambato",23/10/2024 12:00:00,ACTIVO
+Cus037,PASAPORTE,CNK4OWD1,Carlos,Gómez,01/05/1991,carlos.gomez37@testmail.com,0920984027,"Av. Amazonas N3316 y Orellana, Quito",06/09/2024 12:00:00,ACTIVO
+Cus038,CEDULA,1747178620,Sofía,Torres,02/02/1962,sofia.torres38@testmail.com,0961563688,"Calle Bolívar N6422 y Orellana, Cuenca",30/07/2024 12:00:00,ACTIVO
+Cus039,RUC,1706285366001,Juan,Martínez,27/07/1944,juan.martinez39@testmail.com,0992818711,"Av. Naciones Unidas N3924 y Loja, Cuenca",05/06/2023 12:00:00,INACTIVO
+Cus040,CEDULA,1701270645,Luis,López,28/07/1966,luis.lopez40@testmail.com,0978399049,"Calle Sucre N396 y Colón, Guayaquil",31/10/2024 12:00:00,ACTIVO
+Cus041,CEDULA,1731850291,Juan,López,12/06/1947,juan.lopez41@testmail.com,0970644093,"Av. Amazonas N7983 y Mariana de Jesús, Manta",09/03/2024 12:00:00,INACTIVO
+Cus042,RUC,1742600545001,Pedro,Gómez,23/03/1987,pedro.gomez42@testmail.com,0963574088,"Av. Shyris N7361 y Colón, Cuenca",25/09/2024 12:00:00,ACTIVO
+Cus043,RUC,1748258231001,Luis,Martínez,11/07/1962,luis.martinez43@testmail.com,0926373380,"Calle Bolívar N8215 y Colón, Manta",31/10/2024 12:00:00,ACTIVO
+Cus044,CEDULA,1706310594,Juan,Martínez,19/12/1961,juan.martinez44@testmail.com,0976140486,"Av. 9 de Octubre N1948 y Sucre, Manta",19/12/2024 12:00:00,ACTIVO
+Cus045,CEDULA,1711092005,Juan,Mora,04/11/1993,juan.mora45@testmail.com,0949892168,"Av. Shyris N9503 y Naciones Unidas, Ambato",12/08/2024 12:00:00,ACTIVO
+Cus046,PASAPORTE,SXY7JOA9,Luis,Mora,25/12/1992,luis.mora46@testmail.com,0996033822,"Av. Naciones Unidas N3093 y Patria, Guayaquil",28/07/2024 12:00:00,ACTIVO
+Cus047,RUC,1757270598001,Sofía,López,10/02/1990,sofia.lopez47@testmail.com,0950188720,"Calle Bolívar N5997 y Loja, Manta",07/08/2023 12:00:00,INACTIVO
+Cus048,RUC,1731308480001,Lucía,Vera,28/02/1980,lucia.vera48@testmail.com,0972006632,"Av. Shyris N8425 y Loja, Ambato",05/02/2023 12:00:00,INACTIVO
+Cus049,RUC,1743670612001,Pedro,Ramírez,09/01/1934,pedro.ramirez49@testmail.com,0975003814,"Av. Amazonas N3458 y Orellana, Ambato",08/02/2023 12:00:00,INACTIVO
+Cus050,RUC,1720058351001,Juan,Gómez,01/08/1982,juan.gomez50@testmail.com,0985842556,"Av. 6 de Diciembre N1136 y Orellana, Manta",15/12/2024 12:00:00,ACTIVO
+Cus051,RUC,1708325798001,Luis,López,03/11/1941,luis.lopez51@testmail.com,0969535246,"Av. Naciones Unidas N947 y Loja, Cuenca",07/06/2024 12:00:00,INACTIVO
+Cus052,PASAPORTE,0YZC7720,Carlos,Ramírez,14/03/1935,carlos.ramirez52@testmail.com,0981843244,"Av. Shyris N5189 y Sucre, Guayaquil",27/10/2024 12:00:00,ACTIVO
+Cus053,RUC,1712869526001,Luis,Torres,14/02/1978,luis.torres53@testmail.com,0982106286,"Av. 9 de Octubre N2321 y Mariana de Jesús, Quito",19/04/2024 12:00:00,INACTIVO
+Cus054,PASAPORTE,MBH0X4QX,Juan,Pérez,08/08/1968,juan.perez54@testmail.com,0914822430,"Av. Colón N5412 y Mariana de Jesús, Ambato",19/11/2023 12:00:00,INACTIVO
+Cus055,RUC,1719742601001,Sofía,Ramírez,03/07/1937,sofia.ramirez55@testmail.com,0950262599,"Av. 6 de Diciembre N3992 y Orellana, Cuenca",02/08/2024 12:00:00,ACTIVO
+Cus056,PASAPORTE,VE98QIZW,Ana,Ramírez,01/03/1942,ana.ramirez56@testmail.com,0937363015,"Av. Colón N8018 y Sucre, Guayaquil",15/05/2023 12:00:00,INACTIVO
+Cus057,PASAPORTE,TJRUAFD4,Lucía,Martínez,08/12/1969,lucia.martinez57@testmail.com,0990025587,"Av. 9 de Octubre N5408 y Patria, Manta",01/12/2024 12:00:00,ACTIVO
+Cus058,CEDULA,1710373547,Ana,Gómez,29/06/2001,ana.gomez58@testmail.com,0933401647,"Av. 9 de Octubre N1096 y Mariana de Jesús, Manta",17/11/2024 12:00:00,ACTIVO
+Cus059,CEDULA,1748658513,Juan,López,27/10/2004,juan.lopez59@testmail.com,0914654819,"Av. Naciones Unidas N2832 y Patria, Quito",26/04/2024 12:00:00,INACTIVO
+Cus060,RUC,1720191772001,Pedro,Gómez,03/01/1941,pedro.gomez60@testmail.com,0979504700,"Calle Bolívar N2400 y Patria, Cuenca",10/07/2024 12:00:00,ACTIVO
+Cus061,RUC,1741748907001,Juan,Gómez,22/09/1984,juan.gomez61@testmail.com,0993604470,"Calle Sucre N6972 y Naciones Unidas, Manta",30/07/2023 12:00:00,INACTIVO
+Cus062,RUC,1717398315001,Juan,Ramírez,13/10/1994,juan.ramirez62@testmail.com,0959822189,"Av. 9 de Octubre N239 y Sucre, Quito",12/08/2023 12:00:00,INACTIVO
+Cus063,PASAPORTE,JCVOHAJ3,Pedro,Torres,26/02/1970,pedro.torres63@testmail.com,0978531502,"Calle Sucre N4065 y Orellana, Ambato",19/10/2023 12:00:00,INACTIVO
+Cus064,PASAPORTE,0MLKTOBY,Ana,Gómez,24/04/1990,ana.gomez64@testmail.com,0995860725,"Av. Amazonas N3214 y 10 de Agosto, Guayaquil",10/07/2024 12:00:00,ACTIVO
+Cus065,CEDULA,1710538453,Juan,Torres,24/03/1986,juan.torres65@testmail.com,0913497857,"Av. Shyris N3760 y Patria, Guayaquil",28/12/2023 12:00:00,INACTIVO
+Cus066,CEDULA,1742118621,Pedro,Vera,23/07/2006,pedro.vera66@testmail.com,0902551309,"Calle Bolívar N4968 y Patria, Guayaquil",09/11/2024 12:00:00,ACTIVO
+Cus067,PASAPORTE,AAKNCME6,Pedro,Martínez,07/11/1987,pedro.martinez67@testmail.com,0969195759,"Av. República N9406 y Colón, Quito",18/02/2023 12:00:00,INACTIVO
+Cus068,RUC,1724782923001,Luis,Ramírez,04/12/1968,luis.ramirez68@testmail.com,0998866611,"Av. 9 de Octubre N1041 y Sucre, Quito",12/09/2024 12:00:00,ACTIVO
+Cus069,PASAPORTE,OTFBGNPQ,Lucía,Martínez,29/09/1966,lucia.martinez69@testmail.com,0916359244,"Av. República N572 y Mariana de Jesús, Manta",29/12/2024 12:00:00,ACTIVO
+Cus070,RUC,1749155931001,Pedro,Ramírez,09/03/1938,pedro.ramirez70@testmail.com,0977514258,"Av. Amazonas N4945 y Sucre, Guayaquil",12/01/2023 12:00:00,INACTIVO
+Cus071,CEDULA,1733600140,Carlos,Gómez,29/09/1965,carlos.gomez71@testmail.com,0932329142,"Av. Amazonas N1747 y Orellana, Manta",13/11/2024 12:00:00,ACTIVO
+Cus072,CEDULA,1707184667,Ana,Ramírez,26/02/2005,ana.ramirez72@testmail.com,0903514903,"Av. Naciones Unidas N1691 y 10 de Agosto, Guayaquil",22/12/2023 12:00:00,INACTIVO
+Cus073,PASAPORTE,ZF1YHC41,Ana,Vera,27/04/1954,ana.vera73@testmail.com,0962386582,"Calle Bolívar N528 y 10 de Agosto, Quito",02/10/2024 12:00:00,ACTIVO
+Cus074,PASAPORTE,B2HPU1FH,Pedro,Gómez,30/12/1970,pedro.gomez74@testmail.com,0954755156,"Av. 9 de Octubre N2665 y 10 de Agosto, Guayaquil",14/11/2024 12:00:00,ACTIVO
+Cus075,CEDULA,1709177016,María,Gómez,29/09/1939,maria.gomez75@testmail.com,0977179567,"Av. 9 de Octubre N9291 y Mariana de Jesús, Manta",30/07/2024 12:00:00,ACTIVO
+Cus076,CEDULA,1757744410,Pedro,Vera,23/06/1962,pedro.vera76@testmail.com,0957437598,"Av. Colón N8831 y Orellana, Quito",12/12/2024 12:00:00,ACTIVO
+Cus077,PASAPORTE,828WNSYL,Ana,Torres,20/07/1982,ana.torres77@testmail.com,0926407149,"Av. 6 de Diciembre N1863 y 10 de Agosto, Quito",25/08/2024 12:00:00,ACTIVO
+Cus078,PASAPORTE,RB0MJKHW,Luis,Vera,03/09/1999,luis.vera78@testmail.com,0982651294,"Calle Sucre N9486 y Patria, Ambato",10/02/2024 12:00:00,INACTIVO
+Cus079,CEDULA,1700951138,Carlos,Vera,20/01/1996,carlos.vera79@testmail.com,0922276158,"Av. República N5787 y Patria, Quito",08/09/2024 12:00:00,ACTIVO
+Cus080,PASAPORTE,FELHDZHW,María,Mora,26/04/1962,maria.mora80@testmail.com,0903409718,"Av. 6 de Diciembre N8862 y Orellana, Cuenca",02/01/2024 12:00:00,INACTIVO
+Cus081,RUC,1734818733001,Luis,López,01/05/1992,luis.lopez81@testmail.com,0985297642,"Av. 9 de Octubre N6493 y Orellana, Ambato",22/07/2024 12:00:00,ACTIVO
+Cus082,PASAPORTE,CYXMT33F,Sofía,Gómez,12/10/1970,sofia.gomez82@testmail.com,0990039161,"Av. Amazonas N8486 y Patria, Quito",20/09/2024 12:00:00,ACTIVO
+Cus083,CEDULA,1720478732,María,Gómez,02/08/1946,maria.gomez83@testmail.com,0980521702,"Av. Amazonas N4064 y Sucre, Ambato",01/06/2024 12:00:00,INACTIVO
+Cus084,PASAPORTE,Y8PUSCB6,Lucía,Pérez,06/11/1945,lucia.perez84@testmail.com,0996767416,"Calle Bolívar N6737 y Naciones Unidas, Cuenca",17/09/2024 12:00:00,ACTIVO
+Cus085,PASAPORTE,XKCJWSO4,Sofía,Martínez,20/04/1978,sofia.martinez85@testmail.com,0968451265,"Av. Colón N6908 y Sucre, Manta",07/10/2023 12:00:00,INACTIVO
+Cus086,CEDULA,1715417836,Lucía,López,18/11/1983,lucia.lopez86@testmail.com,0912681868,"Av. Shyris N6503 y Naciones Unidas, Guayaquil",24/06/2023 12:00:00,INACTIVO
+Cus087,PASAPORTE,0V7CKXN9,Luis,Ramírez,30/09/1936,luis.ramirez87@testmail.com,0963424235,"Av. Colón N289 y Sucre, Quito",06/05/2023 12:00:00,INACTIVO
+Cus088,RUC,1732725864001,Sofía,Torres,18/04/1991,sofia.torres88@testmail.com,0921140848,"Calle Sucre N2638 y Orellana, Manta",09/11/2024 12:00:00,ACTIVO
+Cus089,PASAPORTE,EG1NENWI,María,Ramírez,17/12/1983,maria.ramirez89@testmail.com,0906119368,"Av. Shyris N7793 y Patria, Cuenca",15/03/2023 12:00:00,INACTIVO
+Cus090,PASAPORTE,WMI5WYVI,Juan,Torres,15/09/1935,juan.torres90@testmail.com,0984607491,"Calle Bolívar N5290 y Colón, Cuenca",03/11/2024 12:00:00,ACTIVO
+Cus091,CEDULA,1730475108,Sofía,Vera,30/09/1969,sofia.vera91@testmail.com,0942584658,"Av. Naciones Unidas N4101 y 10 de Agosto, Cuenca",30/07/2024 12:00:00,ACTIVO
+Cus092,RUC,1718499401001,Lucía,Gómez,16/08/1940,lucia.gomez92@testmail.com,0977279728,"Av. Amazonas N8251 y Patria, Manta",03/07/2023 12:00:00,INACTIVO
+Cus093,CEDULA,1726408790,María,Martínez,12/11/1937,maria.martinez93@testmail.com,0973618857,"Av. Shyris N4533 y Patria, Cuenca",10/07/2024 12:00:00,ACTIVO
+Cus094,RUC,1750118083001,Carlos,Gómez,16/01/1985,carlos.gomez94@testmail.com,0995485211,"Av. Colón N6074 y Colón, Ambato",19/01/2024 12:00:00,INACTIVO
+Cus095,CEDULA,1741798423,Luis,Vera,01/06/1950,luis.vera95@testmail.com,0990177069,"Av. Amazonas N3851 y Mariana de Jesús, Guayaquil",30/10/2024 12:00:00,ACTIVO
+Cus096,PASAPORTE,WNV0S2OM,Lucía,Pérez,23/08/1998,lucia.perez96@testmail.com,0936462969,"Av. Amazonas N5212 y Mariana de Jesús, Cuenca",01/08/2024 12:00:00,ACTIVO
+Cus097,PASAPORTE,FRGL26A2,Carlos,Gómez,04/12/1953,carlos.gomez97@testmail.com,0983073546,"Av. Amazonas N8092 y Naciones Unidas, Ambato",05/08/2024 12:00:00,ACTIVO
+Cus098,CEDULA,1745644920,Lucía,Martínez,13/07/1966,lucia.martinez98@testmail.com,0993348869,"Av. Shyris N6760 y Orellana, Ambato",15/04/2023 12:00:00,INACTIVO
+Cus099,CEDULA,1759764655,Juan,Pérez,28/11/1981,juan.perez99@testmail.com,0975959627,"Av. República N3641 y Patria, Guayaquil",29/12/2024 12:00:00,ACTIVO
+Cus100,CEDULA,1717037525,Luis,Gómez,23/02/1956,luis.gomez100@testmail.com,0968575391,"Calle Bolívar N3193 y Colón, Ambato",20/10/2024 12:00:00,ACTIVO
+Cus101,PASAPORTE,EO7D8WKD,Luis,Vera,13/05/1991,luis.vera101@testmail.com,0922512574,"Av. 9 de Octubre N5823 y Colón, Guayaquil",02/11/2024 12:00:00,ACTIVO
+Cus102,RUC,1733981805001,Carlos,Martínez,17/07/1939,carlos.martinez102@testmail.com,0954206099,"Av. Naciones Unidas N971 y Loja, Quito",22/07/2024 12:00:00,ACTIVO
+Cus103,PASAPORTE,1ADRGHSB,Lucía,Martínez,26/11/1962,lucia.martinez103@testmail.com,0913486579,"Calle Bolívar N296 y Colón, Guayaquil",07/10/2024 12:00:00,ACTIVO
+Cus104,CEDULA,1701732818,Carlos,Pérez,23/02/1966,carlos.perez104@testmail.com,0954312467,"Av. República N169 y Naciones Unidas, Ambato",27/10/2024 12:00:00,ACTIVO
+Cus105,RUC,1741411951001,Luis,Pérez,08/05/1939,luis.perez105@testmail.com,0936063405,"Av. 6 de Diciembre N696 y 10 de Agosto, Quito",09/09/2024 12:00:00,ACTIVO
+Cus106,CEDULA,1723279186,Sofía,Mora,08/09/1985,sofia.mora106@testmail.com,0931671629,"Calle Bolívar N7764 y Colón, Cuenca",10/08/2024 12:00:00,ACTIVO
+Cus107,RUC,1753352150001,Luis,Gómez,08/12/1955,luis.gomez107@testmail.com,0923247468,"Calle Sucre N8190 y Patria, Quito",24/02/2024 12:00:00,INACTIVO
+Cus108,PASAPORTE,QHM3U5V5,Sofía,Ramírez,25/12/1937,sofia.ramirez108@testmail.com,0987841786,"Calle Sucre N3632 y 10 de Agosto, Manta",04/11/2024 12:00:00,ACTIVO
+Cus109,PASAPORTE,GEHLEK8D,Ana,Martínez,03/06/1973,ana.martinez109@testmail.com,0981389331,"Av. Naciones Unidas N3358 y Loja, Cuenca",18/02/2023 12:00:00,INACTIVO
+Cus110,RUC,1743710418001,Carlos,López,13/06/1947,carlos.lopez110@testmail.com,0928510301,"Calle Bolívar N785 y Orellana, Cuenca",22/10/2024 12:00:00,ACTIVO
+Cus111,PASAPORTE,ED6AWJ4S,Juan,López,07/11/1996,juan.lopez111@testmail.com,0948219912,"Av. Amazonas N2502 y Loja, Cuenca",23/05/2023 12:00:00,INACTIVO
+Cus112,PASAPORTE,C6209C3A,Luis,Gómez,24/04/1959,luis.gomez112@testmail.com,0956811343,"Av. 6 de Diciembre N3752 y Mariana de Jesús, Guayaquil",14/06/2024 12:00:00,INACTIVO
+Cus113,RUC,1718223595001,Ana,Gómez,31/08/1955,ana.gomez113@testmail.com,0947262471,"Av. Naciones Unidas N6991 y Colón, Cuenca",31/07/2024 12:00:00,ACTIVO
+Cus114,PASAPORTE,AREJAOS6,Carlos,Mora,15/01/2005,carlos.mora114@testmail.com,0925406467,"Calle Bolívar N1158 y Mariana de Jesús, Manta",15/12/2023 12:00:00,INACTIVO
+Cus115,PASAPORTE,1FEEWLLK,Carlos,Mora,22/08/1993,carlos.mora115@testmail.com,0993001590,"Av. Naciones Unidas N4261 y Patria, Quito",20/08/2023 12:00:00,INACTIVO
+Cus116,PASAPORTE,8S2HJKNH,Ana,Pérez,23/06/2001,ana.perez116@testmail.com,0969580494,"Av. Amazonas N6761 y Loja, Cuenca",27/11/2024 12:00:00,ACTIVO
+Cus117,RUC,1731792303001,Luis,Vera,24/10/2005,luis.vera117@testmail.com,0988349284,"Av. República N5473 y Mariana de Jesús, Quito",09/10/2024 12:00:00,ACTIVO
+Cus118,PASAPORTE,YFTHRUJB,Lucía,Martínez,27/12/2000,lucia.martinez118@testmail.com,0910568977,"Av. Amazonas N7181 y 10 de Agosto, Cuenca",27/07/2024 12:00:00,ACTIVO
+Cus119,RUC,1711696896001,Pedro,Martínez,12/01/1985,pedro.martinez119@testmail.com,0986979793,"Av. República N7185 y Mariana de Jesús, Guayaquil",14/07/2024 12:00:00,ACTIVO
+Cus120,CEDULA,1711526051,Sofía,Mora,04/03/1948,sofia.mora120@testmail.com,0948157581,"Av. Amazonas N1367 y Naciones Unidas, Cuenca",15/07/2024 12:00:00,ACTIVO
+Cus121,RUC,1714573795001,Luis,Martínez,18/08/1937,luis.martinez121@testmail.com,0980020328,"Calle Sucre N7338 y Naciones Unidas, Ambato",01/05/2024 12:00:00,INACTIVO
+Cus122,RUC,1752509156001,Pedro,Gómez,15/05/1960,pedro.gomez122@testmail.com,0932222326,"Av. Amazonas N7529 y Colón, Cuenca",24/11/2024 12:00:00,ACTIVO
+Cus123,RUC,1709912420001,Luis,Torres,26/07/1980,luis.torres123@testmail.com,0983906184,"Av. Shyris N8026 y Loja, Guayaquil",20/11/2024 12:00:00,ACTIVO
+Cus124,RUC,1713948477001,Lucía,Ramírez,23/11/1950,lucia.ramirez124@testmail.com,0946733909,"Av. Colón N4077 y Colón, Manta",27/12/2024 12:00:00,ACTIVO
+Cus125,PASAPORTE,RA7GEVW0,Juan,Gómez,31/08/1972,juan.gomez125@testmail.com,0941881576,"Av. Shyris N6224 y Colón, Quito",22/11/2024 12:00:00,ACTIVO
+Cus126,PASAPORTE,7VEUEDO8,Carlos,Gómez,07/06/1941,carlos.gomez126@testmail.com,0918908540,"Av. Naciones Unidas N3290 y Naciones Unidas, Guayaquil",13/10/2023 12:00:00,INACTIVO
+Cus127,RUC,1749539720001,Sofía,López,06/01/2005,sofia.lopez127@testmail.com,0956006420,"Av. Colón N6037 y Patria, Ambato",03/08/2023 12:00:00,INACTIVO
+Cus128,PASAPORTE,2Q66BZAD,Lucía,López,07/01/1996,lucia.lopez128@testmail.com,0930322323,"Av. Shyris N3766 y Orellana, Guayaquil",19/03/2023 12:00:00,INACTIVO
+Cus129,RUC,1755602677001,Lucía,Martínez,12/11/1967,lucia.martinez129@testmail.com,0921638245,"Calle Bolívar N2847 y Patria, Guayaquil",13/09/2024 12:00:00,ACTIVO
+Cus130,RUC,1746099603001,Lucía,Torres,09/03/1948,lucia.torres130@testmail.com,0939105150,"Calle Sucre N1079 y Colón, Ambato",25/11/2023 12:00:00,INACTIVO
+Cus131,RUC,1729851533001,María,Vera,02/12/1987,maria.vera131@testmail.com,0992835342,"Av. República N247 y Mariana de Jesús, Quito",09/07/2024 12:00:00,ACTIVO
+Cus132,PASAPORTE,0P47EWQQ,Sofía,Torres,21/01/1979,sofia.torres132@testmail.com,0924696492,"Av. 9 de Octubre N3395 y Loja, Ambato",19/12/2024 12:00:00,ACTIVO
+Cus133,CEDULA,1739930053,Pedro,Pérez,19/05/1967,pedro.perez133@testmail.com,0964249442,"Av. 9 de Octubre N8949 y Patria, Quito",16/09/2024 12:00:00,ACTIVO
+Cus134,RUC,1716691785001,Ana,Torres,23/05/1983,ana.torres134@testmail.com,0929721369,"Av. Amazonas N7113 y Loja, Quito",12/04/2024 12:00:00,INACTIVO
+Cus135,PASAPORTE,CMBZJC9A,Carlos,Torres,26/07/1980,carlos.torres135@testmail.com,0917609713,"Calle Sucre N7969 y Sucre, Ambato",14/11/2023 12:00:00,INACTIVO
+Cus136,RUC,1730420864001,Ana,Vera,03/08/1955,ana.vera136@testmail.com,0978635943,"Av. Amazonas N2535 y Colón, Guayaquil",26/10/2024 12:00:00,ACTIVO
+Cus137,CEDULA,1755431879,Pedro,Martínez,06/02/2005,pedro.martinez137@testmail.com,0950982216,"Av. Colón N3737 y Mariana de Jesús, Guayaquil",30/10/2023 12:00:00,INACTIVO
+Cus138,CEDULA,1757493836,Carlos,Martínez,23/11/1973,carlos.martinez138@testmail.com,0962325287,"Av. República N521 y Orellana, Guayaquil",19/06/2024 12:00:00,INACTIVO
+Cus139,CEDULA,1736039213,María,López,11/11/1934,maria.lopez139@testmail.com,0965806438,"Av. Shyris N1133 y Mariana de Jesús, Guayaquil",24/11/2024 12:00:00,ACTIVO
+Cus140,PASAPORTE,SBSI4WOB,Pedro,Vera,24/06/1969,pedro.vera140@testmail.com,0935077318,"Av. 9 de Octubre N3965 y Mariana de Jesús, Manta",04/12/2024 12:00:00,ACTIVO
+Cus141,CEDULA,1744095330,Lucía,Ramírez,06/02/1985,lucia.ramirez141@testmail.com,0943350698,"Av. República N4085 y Orellana, Guayaquil",04/10/2024 12:00:00,ACTIVO
+Cus142,RUC,1751278068001,Juan,Torres,27/08/1958,juan.torres142@testmail.com,0948567868,"Av. Colón N8296 y Loja, Cuenca",11/02/2023 12:00:00,INACTIVO
+Cus143,CEDULA,1751183607,Sofía,Gómez,08/09/1956,sofia.gomez143@testmail.com,0970554565,"Av. 6 de Diciembre N4571 y Mariana de Jesús, Quito",12/05/2024 12:00:00,INACTIVO
+Cus144,CEDULA,1725094138,Luis,Torres,07/10/1935,luis.torres144@testmail.com,0925814010,"Av. 6 de Diciembre N9555 y Colón, Quito",19/04/2024 12:00:00,INACTIVO
+Cus145,PASAPORTE,0YDKLY9X,Sofía,Pérez,08/11/1939,sofia.perez145@testmail.com,0906355197,"Av. Colón N3219 y Loja, Cuenca",25/08/2023 12:00:00,INACTIVO
+Cus146,RUC,1742476821001,Luis,Ramírez,04/04/1966,luis.ramirez146@testmail.com,0945972205,"Av. Amazonas N1506 y Colón, Manta",21/06/2023 12:00:00,INACTIVO
+Cus147,CEDULA,1729677763,Juan,Pérez,09/03/1991,juan.perez147@testmail.com,0920297637,"Calle Sucre N5788 y Mariana de Jesús, Cuenca",22/01/2023 12:00:00,INACTIVO
+Cus148,PASAPORTE,YV49QDO3,Lucía,Martínez,15/07/1981,lucia.martinez148@testmail.com,0922938629,"Av. 6 de Diciembre N9682 y Sucre, Guayaquil",06/12/2024 12:00:00,ACTIVO
+Cus149,PASAPORTE,QEMDC5L0,Lucía,Ramírez,21/12/1988,lucia.ramirez149@testmail.com,0971389477,"Av. 9 de Octubre N5006 y Mariana de Jesús, Quito",25/07/2024 12:00:00,ACTIVO
+Cus150,RUC,1714112362001,Lucía,Martínez,07/06/1968,lucia.martinez150@testmail.com,0928506967,"Av. Colón N6608 y Naciones Unidas, Cuenca",28/07/2024 12:00:00,ACTIVO
+Cus151,CEDULA,1750375014,Lucía,Martínez,02/01/1955,lucia.martinez151@testmail.com,0955704787,"Av. 6 de Diciembre N3903 y Patria, Manta",22/06/2023 12:00:00,INACTIVO
+Cus152,PASAPORTE,R3SPFOH2,Carlos,Mora,19/02/1999,carlos.mora152@testmail.com,0954717741,"Calle Bolívar N8094 y Loja, Cuenca",01/10/2024 12:00:00,ACTIVO
+Cus153,CEDULA,1756008049,Luis,Vera,20/09/1970,luis.vera153@testmail.com,0958351006,"Calle Sucre N7415 y Naciones Unidas, Manta",22/03/2024 12:00:00,INACTIVO
+Cus154,PASAPORTE,HB3QGDFJ,Juan,López,20/11/1987,juan.lopez154@testmail.com,0928133094,"Av. Naciones Unidas N2062 y Naciones Unidas, Ambato",26/06/2023 12:00:00,INACTIVO
+Cus155,PASAPORTE,QK5GPAF7,Juan,Mora,19/08/1950,juan.mora155@testmail.com,0958618942,"Av. Amazonas N2565 y Loja, Cuenca",25/12/2023 12:00:00,INACTIVO
+Cus156,PASAPORTE,1F92P2FA,Lucía,Torres,02/04/1982,lucia.torres156@testmail.com,0948030251,"Av. Shyris N1993 y Sucre, Manta",21/11/2024 12:00:00,ACTIVO
+Cus157,PASAPORTE,QGAXKKTY,María,Ramírez,28/11/1950,maria.ramirez157@testmail.com,0913835146,"Av. Naciones Unidas N4861 y Mariana de Jesús, Manta",13/05/2023 12:00:00,INACTIVO
+Cus158,PASAPORTE,Y02LKZQG,Pedro,Ramírez,17/03/1952,pedro.ramirez158@testmail.com,0934867370,"Av. Colón N9877 y Colón, Manta",03/01/2023 12:00:00,INACTIVO
+Cus159,RUC,1716417223001,Pedro,Gómez,30/06/1960,pedro.gomez159@testmail.com,0914588501,"Av. 9 de Octubre N9689 y Patria, Ambato",13/12/2023 12:00:00,INACTIVO
+Cus160,CEDULA,1716390016,Juan,Gómez,18/05/2003,juan.gomez160@testmail.com,0939488340,"Av. Naciones Unidas N7037 y Naciones Unidas, Quito",18/12/2024 12:00:00,ACTIVO
+Cus161,CEDULA,1747034500,Lucía,Mora,29/03/1959,lucia.mora161@testmail.com,0982024469,"Av. República N7819 y 10 de Agosto, Cuenca",07/01/2024 12:00:00,INACTIVO
+Cus162,RUC,1748304217001,Carlos,Torres,22/07/1971,carlos.torres162@testmail.com,0938233213,"Av. Amazonas N9826 y Colón, Guayaquil",18/02/2023 12:00:00,INACTIVO
+Cus163,CEDULA,1713561197,Pedro,Torres,26/09/1970,pedro.torres163@testmail.com,0961475629,"Calle Sucre N4149 y Patria, Cuenca",16/03/2023 12:00:00,INACTIVO
+Cus164,CEDULA,1726904889,Sofía,López,15/07/1981,sofia.lopez164@testmail.com,0963471688,"Av. Amazonas N7834 y Colón, Manta",10/09/2023 12:00:00,INACTIVO
+Cus165,PASAPORTE,NBNAFN02,María,Pérez,15/12/1968,maria.perez165@testmail.com,0977142105,"Av. República N5521 y 10 de Agosto, Quito",31/05/2023 12:00:00,INACTIVO
+Cus166,CEDULA,1747992293,Ana,Mora,03/12/1993,ana.mora166@testmail.com,0980778585,"Av. 6 de Diciembre N8525 y Patria, Ambato",27/10/2024 12:00:00,ACTIVO
+Cus167,RUC,1703834786001,Carlos,Gómez,18/10/1951,carlos.gomez167@testmail.com,0964616150,"Av. 6 de Diciembre N452 y Loja, Cuenca",23/04/2023 12:00:00,INACTIVO
+Cus168,RUC,1707861140001,Juan,López,17/01/2004,juan.lopez168@testmail.com,0976703470,"Av. Amazonas N6579 y Patria, Guayaquil",26/07/2024 12:00:00,ACTIVO
+Cus169,PASAPORTE,NE8BQQGU,Lucía,Martínez,30/03/1975,lucia.martinez169@testmail.com,0935930168,"Av. República N1104 y Sucre, Manta",20/09/2023 12:00:00,INACTIVO
+Cus170,RUC,1701714402001,María,Torres,09/08/1982,maria.torres170@testmail.com,0928756731,"Av. 6 de Diciembre N2146 y Naciones Unidas, Manta",06/08/2023 12:00:00,INACTIVO
+Cus171,CEDULA,1741261547,Pedro,Vera,19/02/2002,pedro.vera171@testmail.com,0985691039,"Av. Naciones Unidas N9266 y Orellana, Quito",11/09/2024 12:00:00,ACTIVO
+Cus172,CEDULA,1755393178,Juan,Pérez,28/10/1967,juan.perez172@testmail.com,0921659811,"Av. Shyris N9350 y Sucre, Quito",14/10/2024 12:00:00,ACTIVO
+Cus173,PASAPORTE,XM35V9C5,Ana,Vera,25/01/1958,ana.vera173@testmail.com,0982481729,"Calle Sucre N3666 y Colón, Quito",18/01/2023 12:00:00,INACTIVO
+Cus174,PASAPORTE,BKHXD09D,María,Ramírez,01/10/1937,maria.ramirez174@testmail.com,0988291454,"Calle Sucre N5344 y Naciones Unidas, Cuenca",10/10/2024 12:00:00,ACTIVO
+Cus175,CEDULA,1729543247,Ana,López,05/01/1969,ana.lopez175@testmail.com,0939220781,"Av. Amazonas N586 y Mariana de Jesús, Ambato",23/11/2024 12:00:00,ACTIVO
+Cus176,PASAPORTE,WQI1HVN0,Luis,Pérez,10/05/2001,luis.perez176@testmail.com,0938515343,"Av. Shyris N7920 y Loja, Ambato",20/09/2024 12:00:00,ACTIVO
+Cus177,RUC,1744617455001,Luis,Gómez,07/06/1966,luis.gomez177@testmail.com,0937801871,"Av. Shyris N3819 y Colón, Quito",29/06/2024 12:00:00,INACTIVO
+Cus178,CEDULA,1746129921,Juan,Vera,18/10/1958,juan.vera178@testmail.com,0936181579,"Calle Sucre N6761 y Sucre, Cuenca",30/05/2024 12:00:00,INACTIVO
+Cus179,RUC,1739047551001,Carlos,López,24/09/1986,carlos.lopez179@testmail.com,0903350123,"Av. Colón N927 y Naciones Unidas, Quito",29/05/2024 12:00:00,INACTIVO
+Cus180,RUC,1705822128001,María,Torres,26/06/1996,maria.torres180@testmail.com,0911088098,"Av. Shyris N6455 y Naciones Unidas, Manta",22/10/2024 12:00:00,ACTIVO
+Cus181,RUC,1754008140001,Sofía,López,28/10/1962,sofia.lopez181@testmail.com,0986068921,"Calle Sucre N4394 y Orellana, Manta",31/03/2024 12:00:00,INACTIVO
+Cus182,RUC,1714994983001,Juan,Mora,12/06/1950,juan.mora182@testmail.com,0939160076,"Av. República N6949 y Colón, Cuenca",10/01/2024 12:00:00,INACTIVO
+Cus183,PASAPORTE,EWB3I5KW,Lucía,Pérez,20/05/1951,lucia.perez183@testmail.com,0985304456,"Calle Sucre N9581 y Mariana de Jesús, Ambato",04/10/2024 12:00:00,ACTIVO
+Cus184,CEDULA,1723350854,María,Vera,05/11/1995,maria.vera184@testmail.com,0927481626,"Av. 9 de Octubre N2942 y Mariana de Jesús, Quito",22/07/2024 12:00:00,ACTIVO
+Cus185,PASAPORTE,MUU0F9CQ,Sofía,Vera,10/06/1972,sofia.vera185@testmail.com,0956382569,"Av. Amazonas N8716 y Patria, Manta",28/06/2024 12:00:00,INACTIVO
+Cus186,PASAPORTE,2DS95EEB,Pedro,Gómez,27/07/1943,pedro.gomez186@testmail.com,0902899365,"Av. Amazonas N4181 y Naciones Unidas, Quito",09/05/2023 12:00:00,INACTIVO
+Cus187,RUC,1744220862001,Juan,Ramírez,30/10/1961,juan.ramirez187@testmail.com,0907748602,"Av. Shyris N3905 y Loja, Manta",12/10/2024 12:00:00,ACTIVO
+Cus188,PASAPORTE,YP4IXN4R,María,Gómez,07/03/1947,maria.gomez188@testmail.com,0974840852,"Av. Colón N1513 y Loja, Ambato",12/05/2024 12:00:00,INACTIVO
+Cus189,CEDULA,1735768291,Carlos,Mora,07/05/1951,carlos.mora189@testmail.com,0928241978,"Calle Bolívar N4411 y Naciones Unidas, Guayaquil",29/06/2024 12:00:00,INACTIVO
+Cus190,RUC,1752419547001,Lucía,Torres,16/02/1991,lucia.torres190@testmail.com,0957176269,"Calle Bolívar N2978 y Sucre, Ambato",12/04/2023 12:00:00,INACTIVO
+Cus191,RUC,1725146599001,Carlos,Ramírez,07/09/1942,carlos.ramirez191@testmail.com,0914309953,"Av. Colón N8973 y Colón, Ambato",15/07/2023 12:00:00,INACTIVO
+Cus192,PASAPORTE,BXZN2JHI,Ana,Gómez,21/03/1942,ana.gomez192@testmail.com,0906719174,"Av. Colón N1449 y Mariana de Jesús, Ambato",25/10/2023 12:00:00,INACTIVO
+Cus193,PASAPORTE,N6R31X5E,Pedro,Mora,22/02/2001,pedro.mora193@testmail.com,0975861393,"Av. República N4358 y Sucre, Ambato",11/05/2023 12:00:00,INACTIVO
+Cus194,CEDULA,1708500606,Sofía,Pérez,29/12/1982,sofia.perez194@testmail.com,0979843634,"Av. 9 de Octubre N1452 y Loja, Cuenca",27/08/2023 12:00:00,INACTIVO
+Cus195,PASAPORTE,KBWTV0TJ,Pedro,Ramírez,04/05/1981,pedro.ramirez195@testmail.com,0907870330,"Av. 6 de Diciembre N1185 y Orellana, Quito",21/12/2023 12:00:00,INACTIVO
+Cus196,PASAPORTE,Y2S70RPP,Carlos,Vera,22/04/1955,carlos.vera196@testmail.com,0905742050,"Av. Amazonas N251 y Naciones Unidas, Quito",13/09/2024 12:00:00,ACTIVO
+Cus197,RUC,1732011992001,María,Torres,20/06/2005,maria.torres197@testmail.com,0988709090,"Av. República N4129 y Patria, Guayaquil",09/07/2024 12:00:00,ACTIVO
+Cus198,CEDULA,1734504077,Pedro,Vera,19/10/1969,pedro.vera198@testmail.com,0959220213,"Av. Shyris N525 y Patria, Manta",14/07/2023 12:00:00,INACTIVO
+Cus199,PASAPORTE,UFPEX23Y,Pedro,Martínez,13/12/1946,pedro.martinez199@testmail.com,0915774416,"Calle Bolívar N2017 y Patria, Cuenca",06/10/2024 12:00:00,ACTIVO
+Cus200,PASAPORTE,XP1UI8DY,Sofía,Martínez,25/03/1958,sofia.martinez200@testmail.com,0926814155,"Av. Amazonas N4940 y Colón, Cuenca",02/03/2023 12:00:00,INACTIVO
+Cus201,CEDULA,1707337596,Lucía,Pérez,11/11/1995,lucia.perez201@testmail.com,0928613188,"Av. Naciones Unidas N5495 y Mariana de Jesús, Manta",19/06/2024 12:00:00,INACTIVO
+Cus202,RUC,1731995948001,Juan,Gómez,09/07/1985,juan.gomez202@testmail.com,0935253709,"Av. República N571 y Patria, Manta",08/12/2024 12:00:00,ACTIVO
+Cus203,PASAPORTE,A90UUFXF,Sofía,Ramírez,06/02/1992,sofia.ramirez203@testmail.com,0954963083,"Calle Sucre N2340 y Sucre, Cuenca",28/09/2023 12:00:00,INACTIVO
+Cus204,CEDULA,1729102630,María,López,03/06/1937,maria.lopez204@testmail.com,0949354499,"Calle Sucre N7430 y Naciones Unidas, Cuenca",30/10/2023 12:00:00,INACTIVO
+Cus205,RUC,1742234097001,Sofía,Martínez,19/05/1991,sofia.martinez205@testmail.com,0908957438,"Av. Colón N8244 y Loja, Ambato",18/08/2024 12:00:00,ACTIVO
+Cus206,RUC,1736807981001,Carlos,Torres,10/12/1998,carlos.torres206@testmail.com,0951314692,"Av. Naciones Unidas N8301 y 10 de Agosto, Manta",21/01/2023 12:00:00,INACTIVO
+Cus207,RUC,1716362858001,Ana,Martínez,08/08/1942,ana.martinez207@testmail.com,0998114575,"Av. 9 de Octubre N3760 y Sucre, Ambato",14/01/2024 12:00:00,INACTIVO
+Cus208,RUC,1734511528001,Pedro,Pérez,11/05/1969,pedro.perez208@testmail.com,0918710003,"Av. Amazonas N4120 y Naciones Unidas, Cuenca",08/07/2024 12:00:00,ACTIVO
+Cus209,RUC,1752863249001,Carlos,Mora,27/03/1967,carlos.mora209@testmail.com,0978360029,"Av. 9 de Octubre N6145 y Orellana, Cuenca",05/09/2024 12:00:00,ACTIVO
+Cus210,RUC,1732701899001,Carlos,Gómez,16/09/1992,carlos.gomez210@testmail.com,0988721728,"Av. Naciones Unidas N133 y Loja, Manta",24/03/2024 12:00:00,INACTIVO
+Cus211,PASAPORTE,TVVDG7EO,Pedro,Vera,12/08/1984,pedro.vera211@testmail.com,0980727435,"Av. 9 de Octubre N6401 y Mariana de Jesús, Ambato",22/10/2023 12:00:00,INACTIVO
+Cus212,PASAPORTE,8I9K5B3A,Ana,Torres,05/12/1970,ana.torres212@testmail.com,0990508345,"Av. Amazonas N7502 y 10 de Agosto, Guayaquil",08/10/2023 12:00:00,INACTIVO
+Cus213,PASAPORTE,N2GZY4FC,Sofía,Pérez,21/11/1959,sofia.perez213@testmail.com,0954188228,"Calle Sucre N1002 y Naciones Unidas, Guayaquil",19/07/2024 12:00:00,ACTIVO
+Cus214,RUC,1749923239001,María,López,20/05/1942,maria.lopez214@testmail.com,0944512276,"Av. Amazonas N8852 y Sucre, Manta",07/11/2024 12:00:00,ACTIVO
+Cus215,RUC,1722070776001,Pedro,Pérez,06/09/1993,pedro.perez215@testmail.com,0959923312,"Av. 9 de Octubre N2015 y Mariana de Jesús, Quito",12/09/2023 12:00:00,INACTIVO
+Cus216,RUC,1711126258001,Pedro,Pérez,17/08/1949,pedro.perez216@testmail.com,0989466746,"Av. Shyris N494 y Mariana de Jesús, Cuenca",26/02/2024 12:00:00,INACTIVO
+Cus217,PASAPORTE,JJMSWX8N,Lucía,Ramírez,23/11/1998,lucia.ramirez217@testmail.com,0954947504,"Calle Bolívar N3631 y Mariana de Jesús, Cuenca",09/08/2024 12:00:00,ACTIVO
+Cus218,RUC,1748032602001,Carlos,Ramírez,17/03/1985,carlos.ramirez218@testmail.com,0974805796,"Av. 9 de Octubre N3338 y Sucre, Guayaquil",24/11/2024 12:00:00,ACTIVO
+Cus219,CEDULA,1749761100,Sofía,Torres,26/05/1949,sofia.torres219@testmail.com,0930286653,"Av. Shyris N9112 y Colón, Ambato",21/08/2024 12:00:00,ACTIVO
+Cus220,PASAPORTE,PCSUFIZM,Sofía,Mora,25/01/1991,sofia.mora220@testmail.com,0951093466,"Calle Sucre N900 y 10 de Agosto, Ambato",17/07/2024 12:00:00,ACTIVO
+Cus221,PASAPORTE,D01ERJAC,Juan,Martínez,18/11/1991,juan.martinez221@testmail.com,0956631108,"Av. República N5687 y Mariana de Jesús, Manta",19/08/2024 12:00:00,ACTIVO
+Cus222,PASAPORTE,JDKOUOTP,Ana,López,22/02/1964,ana.lopez222@testmail.com,0910145297,"Av. 6 de Diciembre N3423 y Sucre, Quito",25/11/2024 12:00:00,ACTIVO
+Cus223,PASAPORTE,G45AUCAO,Luis,López,01/05/1993,luis.lopez223@testmail.com,0935599717,"Calle Sucre N2664 y Sucre, Quito",15/12/2024 12:00:00,ACTIVO
+Cus224,RUC,1732595341001,Pedro,Vera,17/08/1960,pedro.vera224@testmail.com,0979728089,"Av. Naciones Unidas N2637 y Sucre, Cuenca",12/12/2024 12:00:00,ACTIVO
+Cus225,CEDULA,1748375019,Sofía,Vera,25/03/1967,sofia.vera225@testmail.com,0910270364,"Calle Bolívar N7902 y Mariana de Jesús, Manta",05/01/2023 12:00:00,INACTIVO
+Cus226,RUC,1713754354001,María,Pérez,06/05/1967,maria.perez226@testmail.com,0978015260,"Calle Sucre N8839 y Orellana, Manta",27/08/2024 12:00:00,ACTIVO
+Cus227,PASAPORTE,RTJV9ZOO,Ana,Ramírez,16/03/1965,ana.ramirez227@testmail.com,0914445032,"Av. Naciones Unidas N2542 y Colón, Cuenca",08/08/2024 12:00:00,ACTIVO
+Cus228,CEDULA,1715891592,María,Martínez,22/07/1958,maria.martinez228@testmail.com,0945827372,"Av. Amazonas N1974 y Orellana, Manta",09/10/2023 12:00:00,INACTIVO
+Cus229,CEDULA,1745048908,Ana,Martínez,18/06/2005,ana.martinez229@testmail.com,0906708762,"Av. República N8428 y Naciones Unidas, Guayaquil",05/03/2024 12:00:00,INACTIVO
+Cus230,PASAPORTE,YGHSF644,Ana,López,21/12/1943,ana.lopez230@testmail.com,0926721825,"Calle Sucre N5997 y Colón, Manta",25/12/2024 12:00:00,ACTIVO
+Cus231,PASAPORTE,L2IQ1XBO,Lucía,López,12/08/1939,lucia.lopez231@testmail.com,0939682298,"Av. Naciones Unidas N6845 y 10 de Agosto, Ambato",01/09/2024 12:00:00,ACTIVO
+Cus232,RUC,1743003053001,María,Ramírez,28/07/1958,maria.ramirez232@testmail.com,0941589689,"Calle Sucre N8637 y Orellana, Guayaquil",02/09/2024 12:00:00,ACTIVO
+Cus233,PASAPORTE,Y9DT3IW0,Lucía,Ramírez,19/11/1990,lucia.ramirez233@testmail.com,0957320836,"Av. 6 de Diciembre N3127 y Loja, Guayaquil",10/07/2024 12:00:00,ACTIVO
+Cus234,RUC,1700982042001,Lucía,Martínez,05/11/1940,lucia.martinez234@testmail.com,0961133628,"Av. 9 de Octubre N7939 y Mariana de Jesús, Quito",10/12/2024 12:00:00,ACTIVO
+Cus235,PASAPORTE,DOFPIZF4,María,Ramírez,22/02/1953,maria.ramirez235@testmail.com,0980327399,"Calle Bolívar N6396 y Loja, Guayaquil",10/03/2023 12:00:00,INACTIVO
+Cus236,CEDULA,1702839174,Juan,Gómez,26/01/1962,juan.gomez236@testmail.com,0967350822,"Av. Amazonas N8191 y Orellana, Guayaquil",21/09/2023 12:00:00,INACTIVO
+Cus237,PASAPORTE,UAQ89GDT,Juan,Gómez,08/02/1979,juan.gomez237@testmail.com,0935672071,"Av. Amazonas N4533 y Colón, Manta",26/10/2024 12:00:00,ACTIVO
+Cus238,PASAPORTE,G5BUNYWX,Ana,Martínez,24/11/1960,ana.martinez238@testmail.com,0974898622,"Av. Amazonas N8888 y Loja, Manta",04/09/2024 12:00:00,ACTIVO
+Cus239,RUC,1758941528001,Lucía,López,03/07/1975,lucia.lopez239@testmail.com,0998202901,"Calle Bolívar N6135 y Loja, Quito",04/11/2023 12:00:00,INACTIVO
+Cus240,RUC,1732343668001,Sofía,Gómez,11/08/1953,sofia.gomez240@testmail.com,0979846503,"Av. Naciones Unidas N413 y Mariana de Jesús, Cuenca",18/02/2023 12:00:00,INACTIVO
+Cus241,PASAPORTE,YQ8MWOIQ,Pedro,Pérez,12/01/1960,pedro.perez241@testmail.com,0985693963,"Av. Colón N9736 y Patria, Ambato",11/10/2024 12:00:00,ACTIVO
+Cus242,PASAPORTE,6I8HIURG,María,Martínez,12/09/1954,maria.martinez242@testmail.com,0906193770,"Calle Bolívar N8373 y Colón, Manta",25/02/2023 12:00:00,INACTIVO
+Cus243,PASAPORTE,ONVUHXB4,Juan,Gómez,21/06/1963,juan.gomez243@testmail.com,0972427420,"Calle Sucre N3021 y Orellana, Manta",29/04/2024 12:00:00,INACTIVO
+Cus244,PASAPORTE,PM93UPP1,María,Mora,11/09/1973,maria.mora244@testmail.com,0964893617,"Av. Shyris N8300 y Naciones Unidas, Ambato",13/11/2024 12:00:00,ACTIVO
+Cus245,CEDULA,1708828163,Lucía,Pérez,09/10/2001,lucia.perez245@testmail.com,0953344110,"Av. Colón N646 y Patria, Quito",29/09/2024 12:00:00,ACTIVO
+Cus246,CEDULA,1759228933,Ana,Torres,01/01/1949,ana.torres246@testmail.com,0999726332,"Av. Naciones Unidas N953 y 10 de Agosto, Quito",10/06/2024 12:00:00,INACTIVO
+Cus247,CEDULA,1702400621,Carlos,López,17/08/1990,carlos.lopez247@testmail.com,0917486006,"Av. República N4206 y Patria, Manta",21/01/2024 12:00:00,INACTIVO
+Cus248,PASAPORTE,A0QVVA2J,Pedro,Pérez,10/12/1966,pedro.perez248@testmail.com,0982026927,"Av. 9 de Octubre N8145 y Patria, Guayaquil",03/08/2024 12:00:00,ACTIVO
+Cus249,PASAPORTE,6KIJCGT1,Sofía,López,03/04/2002,sofia.lopez249@testmail.com,0956432065,"Av. Naciones Unidas N2487 y Colón, Cuenca",07/07/2024 12:00:00,ACTIVO
+Cus250,RUC,1755457346001,Ana,Torres,18/07/1935,ana.torres250@testmail.com,0941323661,"Calle Bolívar N6126 y Patria, Guayaquil",24/09/2024 12:00:00,ACTIVO
+Cus251,PASAPORTE,YH09WWL1,Ana,Pérez,04/07/1974,ana.perez251@testmail.com,0924205267,"Av. Naciones Unidas N7498 y Naciones Unidas, Manta",02/08/2024 12:00:00,ACTIVO
+Cus252,CEDULA,1719540021,María,López,29/12/1989,maria.lopez252@testmail.com,0926788695,"Av. 6 de Diciembre N7919 y Patria, Quito",09/06/2023 12:00:00,INACTIVO
+Cus253,CEDULA,1710382001,Sofía,Mora,24/01/2005,sofia.mora253@testmail.com,0903901108,"Av. Amazonas N9395 y Naciones Unidas, Guayaquil",31/08/2024 12:00:00,ACTIVO
+Cus254,CEDULA,1747815148,Carlos,Gómez,09/05/1993,carlos.gomez254@testmail.com,0989265401,"Calle Bolívar N4709 y Patria, Guayaquil",15/08/2024 12:00:00,ACTIVO
+Cus255,RUC,1730979158001,Sofía,Ramírez,12/10/1968,sofia.ramirez255@testmail.com,0920583283,"Calle Sucre N6241 y Colón, Ambato",24/08/2024 12:00:00,ACTIVO
+Cus256,RUC,1712424660001,Lucía,Ramírez,27/07/1999,lucia.ramirez256@testmail.com,0972948422,"Av. Amazonas N338 y Naciones Unidas, Quito",18/05/2023 12:00:00,INACTIVO
+Cus257,CEDULA,1730970678,Luis,López,25/08/2001,luis.lopez257@testmail.com,0930241935,"Av. Amazonas N6178 y Naciones Unidas, Cuenca",15/12/2024 12:00:00,ACTIVO
+Cus258,CEDULA,1721518130,Carlos,López,04/10/1974,carlos.lopez258@testmail.com,0988151473,"Av. Amazonas N3763 y Mariana de Jesús, Manta",10/02/2023 12:00:00,INACTIVO
+Cus259,PASAPORTE,FZNK4SDE,María,Ramírez,29/09/1935,maria.ramirez259@testmail.com,0961362434,"Av. 6 de Diciembre N7688 y Colón, Guayaquil",15/02/2023 12:00:00,INACTIVO
+Cus260,CEDULA,1720554631,Sofía,López,19/11/1989,sofia.lopez260@testmail.com,0982700626,"Av. 9 de Octubre N1652 y Loja, Quito",28/08/2023 12:00:00,INACTIVO
+Cus261,RUC,1757798986001,Luis,Martínez,19/06/1934,luis.martinez261@testmail.com,0928674333,"Av. 9 de Octubre N2644 y Mariana de Jesús, Cuenca",28/05/2024 12:00:00,INACTIVO
+Cus262,PASAPORTE,MM05BIEL,Juan,Martínez,13/09/1964,juan.martinez262@testmail.com,0913135214,"Av. 9 de Octubre N8024 y Mariana de Jesús, Cuenca",22/01/2024 12:00:00,INACTIVO
+Cus263,RUC,1742621970001,María,Mora,10/11/1975,maria.mora263@testmail.com,0945726542,"Av. Shyris N6534 y Loja, Quito",16/12/2024 12:00:00,ACTIVO
+Cus264,RUC,1730810742001,María,Martínez,13/10/1963,maria.martinez264@testmail.com,0954861508,"Av. Shyris N1919 y Mariana de Jesús, Quito",02/12/2024 12:00:00,ACTIVO
+Cus265,CEDULA,1751547108,Juan,Pérez,10/05/1966,juan.perez265@testmail.com,0987037131,"Av. 6 de Diciembre N2290 y Orellana, Manta",21/09/2024 12:00:00,ACTIVO
+Cus266,CEDULA,1736063288,María,Pérez,19/02/1946,maria.perez266@testmail.com,0988159456,"Av. Amazonas N9473 y Loja, Cuenca",16/09/2024 12:00:00,ACTIVO
+Cus267,RUC,1717509010001,Sofía,Gómez,10/02/1958,sofia.gomez267@testmail.com,0915364431,"Calle Bolívar N3722 y Patria, Quito",25/10/2024 12:00:00,ACTIVO
+Cus268,CEDULA,1755208236,Juan,López,01/01/1967,juan.lopez268@testmail.com,0996888831,"Av. 6 de Diciembre N9805 y Orellana, Manta",15/10/2024 12:00:00,ACTIVO
+Cus269,RUC,1724121916001,Ana,Vera,07/12/1945,ana.vera269@testmail.com,0962217894,"Av. Colón N162 y Loja, Guayaquil",18/10/2023 12:00:00,INACTIVO
+Cus270,CEDULA,1740291545,Carlos,Pérez,06/07/1989,carlos.perez270@testmail.com,0994283981,"Av. 6 de Diciembre N1985 y Patria, Quito",16/07/2024 12:00:00,ACTIVO
+Cus271,CEDULA,1754423604,Sofía,Mora,22/07/1988,sofia.mora271@testmail.com,0967322917,"Av. 6 de Diciembre N4188 y Patria, Guayaquil",15/11/2024 12:00:00,ACTIVO
+Cus272,RUC,1743436881001,Juan,Ramírez,15/03/1953,juan.ramirez272@testmail.com,0914803066,"Av. Shyris N9570 y Loja, Guayaquil",04/07/2024 12:00:00,INACTIVO
+Cus273,PASAPORTE,SRXO5Q5I,Juan,Pérez,24/03/1983,juan.perez273@testmail.com,0923344304,"Calle Sucre N5145 y Colón, Guayaquil",30/10/2024 12:00:00,ACTIVO
+Cus274,PASAPORTE,C3VM2K51,Lucía,Torres,07/02/1991,lucia.torres274@testmail.com,0911284256,"Av. 6 de Diciembre N2939 y Loja, Guayaquil",05/10/2024 12:00:00,ACTIVO
+Cus275,PASAPORTE,N4QFOYAN,Carlos,Vera,15/04/2005,carlos.vera275@testmail.com,0948310344,"Calle Bolívar N3628 y Orellana, Quito",11/02/2024 12:00:00,INACTIVO
+Cus276,PASAPORTE,V81XS9QS,Lucía,Martínez,29/11/2006,lucia.martinez276@testmail.com,0922699519,"Av. Amazonas N2883 y Loja, Ambato",20/12/2024 12:00:00,ACTIVO
+Cus277,CEDULA,1710306570,Luis,Martínez,20/10/1993,luis.martinez277@testmail.com,0987533480,"Av. 9 de Octubre N1314 y Naciones Unidas, Guayaquil",29/09/2024 12:00:00,ACTIVO
+Cus278,RUC,1722142542001,Pedro,Pérez,02/10/1938,pedro.perez278@testmail.com,0971898045,"Calle Sucre N9662 y Loja, Guayaquil",14/02/2023 12:00:00,INACTIVO
+Cus279,CEDULA,1730721766,Carlos,Vera,17/02/1960,carlos.vera279@testmail.com,0905304431,"Calle Sucre N1021 y Orellana, Manta",05/09/2023 12:00:00,INACTIVO
+Cus280,PASAPORTE,95W7C5I8,Ana,Ramírez,19/07/1979,ana.ramirez280@testmail.com,0910909331,"Av. 9 de Octubre N8513 y Loja, Guayaquil",01/09/2024 12:00:00,ACTIVO
+Cus281,RUC,1736639186001,Sofía,Gómez,11/12/2000,sofia.gomez281@testmail.com,0991807321,"Av. 9 de Octubre N2131 y Mariana de Jesús, Cuenca",30/10/2023 12:00:00,INACTIVO
+Cus282,PASAPORTE,6SBYD1RK,María,Mora,28/04/2004,maria.mora282@testmail.com,0956868047,"Calle Sucre N1044 y Naciones Unidas, Quito",22/10/2024 12:00:00,ACTIVO
+Cus283,PASAPORTE,7U4DWC9B,Ana,Ramírez,11/03/1965,ana.ramirez283@testmail.com,0946696147,"Calle Sucre N8454 y 10 de Agosto, Ambato",22/03/2023 12:00:00,INACTIVO
+Cus284,PASAPORTE,DY08VM4K,Carlos,Vera,13/02/1999,carlos.vera284@testmail.com,0905453042,"Av. 6 de Diciembre N4046 y Orellana, Quito",15/01/2023 12:00:00,INACTIVO
+Cus285,RUC,1749940365001,Pedro,Vera,10/12/1973,pedro.vera285@testmail.com,0929816878,"Av. Naciones Unidas N3157 y 10 de Agosto, Manta",12/08/2024 12:00:00,ACTIVO
+Cus286,CEDULA,1758589475,Carlos,Gómez,19/03/1990,carlos.gomez286@testmail.com,0915515219,"Av. 9 de Octubre N6786 y 10 de Agosto, Guayaquil",05/11/2024 12:00:00,ACTIVO
+Cus287,PASAPORTE,QZA7PEEB,Ana,Pérez,25/11/1973,ana.perez287@testmail.com,0956820727,"Av. República N1010 y Orellana, Quito",23/07/2024 12:00:00,ACTIVO
+Cus288,RUC,1716740863001,Carlos,Vera,07/06/1959,carlos.vera288@testmail.com,0900229570,"Av. Naciones Unidas N9774 y Orellana, Guayaquil",07/08/2024 12:00:00,ACTIVO
+Cus289,CEDULA,1736079870,Sofía,Ramírez,03/05/1956,sofia.ramirez289@testmail.com,0999368919,"Av. Shyris N825 y Patria, Ambato",07/03/2024 12:00:00,INACTIVO
+Cus290,PASAPORTE,RQD41PH3,Luis,Vera,19/01/1968,luis.vera290@testmail.com,0941901280,"Av. Colón N5075 y Colón, Guayaquil",21/10/2024 12:00:00,ACTIVO
+Cus291,CEDULA,1740155971,Luis,Torres,04/12/1985,luis.torres291@testmail.com,0956522719,"Av. Colón N9092 y Loja, Quito",15/10/2023 12:00:00,INACTIVO
+Cus292,CEDULA,1737083384,Lucía,Ramírez,05/01/1939,lucia.ramirez292@testmail.com,0980697338,"Av. Colón N8430 y Sucre, Ambato",08/08/2024 12:00:00,ACTIVO
+Cus293,CEDULA,1718815135,María,Mora,03/03/1951,maria.mora293@testmail.com,0992871002,"Av. Naciones Unidas N7509 y Sucre, Quito",07/10/2024 12:00:00,ACTIVO
+Cus294,CEDULA,1725163883,Luis,López,31/08/1942,luis.lopez294@testmail.com,0928997105,"Calle Sucre N4448 y Mariana de Jesús, Ambato",19/10/2024 12:00:00,ACTIVO
+Cus295,CEDULA,1741660896,María,Gómez,01/02/1936,maria.gomez295@testmail.com,0991128147,"Av. 6 de Diciembre N3993 y Orellana, Ambato",28/07/2024 12:00:00,ACTIVO
+Cus296,CEDULA,1754033593,Luis,Pérez,09/03/1952,luis.perez296@testmail.com,0900705530,"Calle Bolívar N8155 y Patria, Manta",07/10/2024 12:00:00,ACTIVO
+Cus297,PASAPORTE,5CQPOWJW,María,Vera,20/01/1945,maria.vera297@testmail.com,0945379569,"Calle Bolívar N6590 y Patria, Quito",04/01/2023 12:00:00,INACTIVO
+Cus298,PASAPORTE,EWNT0HIM,Pedro,Torres,14/09/2003,pedro.torres298@testmail.com,0976600285,"Av. Shyris N3517 y Naciones Unidas, Ambato",15/10/2024 12:00:00,ACTIVO
+Cus299,CEDULA,1749731731,Luis,Mora,18/05/1951,luis.mora299@testmail.com,0923101094,"Av. Shyris N5915 y Sucre, Quito",16/09/2024 12:00:00,ACTIVO
+Cus300,CEDULA,1733081630,Ana,Pérez,21/04/1970,ana.perez300@testmail.com,0911050272,"Av. Shyris N7583 y Sucre, Guayaquil",30/12/2024 12:00:00,ACTIVO
+Cus301,PASAPORTE,Z26EFR6U,Pedro,Gómez,31/01/1937,pedro.gomez301@testmail.com,0924348228,"Av. Amazonas N7438 y Mariana de Jesús, Manta",08/01/2023 12:00:00,INACTIVO
+Cus302,RUC,1741613507001,Carlos,López,27/07/1988,carlos.lopez302@testmail.com,0985525687,"Av. Amazonas N6520 y Naciones Unidas, Guayaquil",02/11/2024 12:00:00,ACTIVO
+Cus303,CEDULA,1724137284,Sofía,Mora,22/02/1984,sofia.mora303@testmail.com,0912716431,"Calle Bolívar N9087 y Mariana de Jesús, Quito",21/12/2024 12:00:00,ACTIVO
+Cus304,PASAPORTE,1C5BFB47,Juan,Vera,20/10/1985,juan.vera304@testmail.com,0912584723,"Av. 9 de Octubre N5202 y Sucre, Ambato",20/04/2024 12:00:00,INACTIVO
+Cus305,PASAPORTE,AEMBDN7Q,Luis,López,17/11/1935,luis.lopez305@testmail.com,0937421415,"Calle Sucre N9400 y Naciones Unidas, Ambato",03/02/2023 12:00:00,INACTIVO
+Cus306,CEDULA,1730598990,Sofía,Torres,09/06/1986,sofia.torres306@testmail.com,0911044761,"Av. República N3370 y Orellana, Cuenca",25/10/2024 12:00:00,ACTIVO
+Cus307,CEDULA,1738194578,Juan,Ramírez,24/08/1966,juan.ramirez307@testmail.com,0952355897,"Av. Colón N6080 y Mariana de Jesús, Quito",03/11/2024 12:00:00,ACTIVO
+Cus308,CEDULA,1700871542,Sofía,Ramírez,23/02/2005,sofia.ramirez308@testmail.com,0992293466,"Av. Colón N2714 y Sucre, Cuenca",26/04/2024 12:00:00,INACTIVO
+Cus309,RUC,1759957267001,Luis,López,01/08/1980,luis.lopez309@testmail.com,0985500230,"Calle Sucre N9849 y Patria, Manta",22/06/2023 12:00:00,INACTIVO
+Cus310,PASAPORTE,CS5LABEU,Lucía,Torres,12/09/1967,lucia.torres310@testmail.com,0941023013,"Av. Amazonas N1236 y Colón, Guayaquil",14/06/2023 12:00:00,INACTIVO
+Cus311,CEDULA,1748684964,Carlos,Vera,02/06/1952,carlos.vera311@testmail.com,0986734815,"Av. Naciones Unidas N3096 y Colón, Guayaquil",01/08/2024 12:00:00,ACTIVO
+Cus312,RUC,1756056907001,María,Pérez,02/09/1972,maria.perez312@testmail.com,0964446944,"Av. Colón N1346 y Colón, Quito",07/07/2024 12:00:00,ACTIVO
+Cus313,CEDULA,1710326156,Pedro,Mora,13/02/1994,pedro.mora313@testmail.com,0987104044,"Calle Bolívar N6665 y Orellana, Guayaquil",01/10/2024 12:00:00,ACTIVO
+Cus314,PASAPORTE,9800W9UZ,Carlos,Torres,12/02/1963,carlos.torres314@testmail.com,0973580541,"Calle Bolívar N1813 y 10 de Agosto, Ambato",27/05/2024 12:00:00,INACTIVO
+Cus315,RUC,1739215398001,Carlos,Mora,18/01/2003,carlos.mora315@testmail.com,0905067481,"Calle Sucre N3403 y Naciones Unidas, Guayaquil",01/01/2025 12:00:00,ACTIVO
+Cus316,PASAPORTE,MX3S1ZY4,Juan,López,12/05/1995,juan.lopez316@testmail.com,0909944957,"Av. 6 de Diciembre N3485 y Colón, Cuenca",31/08/2024 12:00:00,ACTIVO
+Cus317,CEDULA,1706918537,María,Pérez,24/11/1953,maria.perez317@testmail.com,0906707696,"Calle Sucre N3133 y Naciones Unidas, Cuenca",12/09/2024 12:00:00,ACTIVO
+Cus318,RUC,1733268575001,María,Torres,27/11/1938,maria.torres318@testmail.com,0905289416,"Av. 9 de Octubre N3929 y Loja, Quito",03/09/2024 12:00:00,ACTIVO
+Cus319,CEDULA,1736787902,Sofía,Ramírez,02/08/1965,sofia.ramirez319@testmail.com,0911669115,"Av. Naciones Unidas N440 y Orellana, Cuenca",07/05/2023 12:00:00,INACTIVO
+Cus320,CEDULA,1759697681,Carlos,Martínez,21/02/1952,carlos.martinez320@testmail.com,0990078281,"Calle Bolívar N4384 y Naciones Unidas, Quito",11/05/2023 12:00:00,INACTIVO
+Cus321,PASAPORTE,YKU5RHID,Ana,Mora,27/11/1976,ana.mora321@testmail.com,0911557701,"Av. 9 de Octubre N301 y 10 de Agosto, Manta",02/10/2023 12:00:00,INACTIVO
+Cus322,PASAPORTE,9NYZKIFE,Luis,Pérez,11/12/1981,luis.perez322@testmail.com,0922393540,"Av. Naciones Unidas N7488 y Mariana de Jesús, Quito",29/10/2024 12:00:00,ACTIVO
+Cus323,PASAPORTE,RWTEEOX3,Ana,López,06/09/1945,ana.lopez323@testmail.com,0951549606,"Calle Bolívar N7434 y Naciones Unidas, Manta",22/10/2023 12:00:00,INACTIVO
+Cus324,RUC,1723468342001,Pedro,Martínez,19/07/1939,pedro.martinez324@testmail.com,0949751579,"Av. 9 de Octubre N507 y Naciones Unidas, Cuenca",25/11/2024 12:00:00,ACTIVO
+Cus325,RUC,1730630173001,Ana,Torres,13/02/1940,ana.torres325@testmail.com,0921095927,"Av. 9 de Octubre N3923 y 10 de Agosto, Guayaquil",05/11/2023 12:00:00,INACTIVO
+Cus326,PASAPORTE,LC4CC3ML,Sofía,Vera,14/09/1994,sofia.vera326@testmail.com,0982226293,"Calle Bolívar N8471 y Mariana de Jesús, Ambato",26/10/2024 12:00:00,ACTIVO
+Cus327,PASAPORTE,L90KT5F3,Ana,Martínez,19/01/1947,ana.martinez327@testmail.com,0991388515,"Av. 9 de Octubre N9550 y Loja, Cuenca",18/05/2024 12:00:00,INACTIVO
+Cus328,PASAPORTE,,12345,Martínez,13/11/1953,juan.martinez328@testmail.com,0954580618,"Calle Sucre N546 y Naciones Unidas, Quito",17/04/2024 12:00:00,INACTIVO
+Cus329,RUC,1710163575001,Ana,Vera,28/02/1956,ana.vera329@testmail.com,0913647259,"Av. 9 de Octubre N6357 y Mariana de Jesús, Ambato",25/11/2024 12:00:00,ACTIVO
+Cus330,CEDULA,1749853543,Luis,Torres,22/08/1993,luis.torres330@testmail.com,0930194267,"Av. Naciones Unidas N3258 y Loja, Guayaquil",29/11/2024 12:00:00,ACTIVO
+Cus331,RUC,1704308046001,Sofía,Gómez,11/09/1965,sofia.gomez331@testmail.com,0910025904,"Calle Sucre N4913 y Mariana de Jesús, Manta",09/12/2024 12:00:00,ACTIVO
+Cus332,RUC,1729518462001,Pedro,Gómez,05/05/1993,pedro.gomez332@testmail.com,0928471271,"Av. Colón N2902 y Sucre, Cuenca",06/11/2024 12:00:00,ACTIVO
+Cus333,PASAPORTE,IBN8W2QO,María,Mora,03/07/1976,maria.mora333@testmail.com,0952202279,"Calle Bolívar N8126 y Colón, Manta",01/11/2024 12:00:00,ACTIVO
+Cus334,CEDULA,1708551724,Juan,Pérez,28/03/1972,juan.perez334@testmail.com,0989833119,"Av. 9 de Octubre N9122 y Loja, Guayaquil",18/08/2024 12:00:00,ACTIVO
+Cus335,CEDULA,1755640602,Sofía,Martínez,14/06/1963,sofia.martinez335@testmail.com,0943290088,"Av. Shyris N9528 y Naciones Unidas, Quito",15/02/2024 12:00:00,INACTIVO
+Cus336,PASAPORTE,7A1Z6OFT,Sofía,Mora,11/10/1984,sofia.mora336@testmail.com,0950538653,"Av. 6 de Diciembre N3307 y Patria, Cuenca",27/08/2024 12:00:00,ACTIVO
+Cus337,CEDULA,1721844460,Luis,Martínez,11/12/1986,luis.martinez337@testmail.com,0942457972,"Calle Sucre N1531 y 10 de Agosto, Guayaquil",08/08/2024 12:00:00,ACTIVO
+Cus338,CEDULA,1752938074,Carlos,Gómez,15/09/1971,carlos.gomez338@testmail.com,0985729032,"Av. 6 de Diciembre N5576 y Loja, Quito",24/08/2024 12:00:00,ACTIVO
+Cus339,RUC,1753761079001,Sofía,Ramírez,23/05/1989,sofia.ramirez339@testmail.com,0978765973,"Av. Colón N6975 y Orellana, Quito",06/11/2023 12:00:00,INACTIVO
+Cus340,CEDULA,1711192508,Sofía,Mora,16/04/1959,sofia.mora340@testmail.com,0936825170,"Av. Colón N5887 y Orellana, Cuenca",18/06/2024 12:00:00,INACTIVO
+Cus341,RUC,1743443226001,Carlos,Vera,26/03/1986,carlos.vera341@testmail.com,0937213027,"Av. Naciones Unidas N2156 y Patria, Quito",17/04/2023 12:00:00,INACTIVO
+Cus342,PASAPORTE,XAMKJ3GG,Luis,Martínez,21/04/1989,luis.martinez342@testmail.com,0917272433,"Av. República N7442 y Sucre, Guayaquil",26/06/2024 12:00:00,INACTIVO
+Cus343,PASAPORTE,I396FTFY,Juan,Martínez,23/03/1967,juan.martinez343@testmail.com,0948275965,"Av. Shyris N7204 y Sucre, Ambato",16/09/2023 12:00:00,INACTIVO
+Cus344,CEDULA,1747106233,Luis,Gómez,25/02/1964,luis.gomez344@testmail.com,0916931824,"Av. República N4808 y Loja, Ambato",01/01/2025 12:00:00,ACTIVO
+Cus345,PASAPORTE,OOGBPF2L,Sofía,Vera,02/12/1976,sofia.vera345@testmail.com,0996127348,"Av. Shyris N9915 y Sucre, Cuenca",30/07/2023 12:00:00,INACTIVO
+Cus346,PASAPORTE,FLJWI7N5,Luis,Gómez,16/08/1962,luis.gomez346@testmail.com,0994158744,"Av. 6 de Diciembre N293 y Mariana de Jesús, Guayaquil",04/09/2023 12:00:00,INACTIVO
+Cus347,PASAPORTE,00XUPNDN,Carlos,Torres,06/07/1966,carlos.torres347@testmail.com,0908914908,"Calle Sucre N9344 y Loja, Quito",28/04/2024 12:00:00,INACTIVO
+Cus348,RUC,1728690809001,Sofía,Mora,24/06/1987,sofia.mora348@testmail.com,0978224909,"Av. Naciones Unidas N2251 y Orellana, Manta",17/12/2024 12:00:00,ACTIVO
+Cus349,PASAPORTE,LF2NCO4K,Luis,Mora,27/04/1977,luis.mora349@testmail.com,0929952043,"Av. Amazonas N6733 y Colón, Quito",25/03/2023 12:00:00,INACTIVO
+Cus350,RUC,1729972982001,Luis,Torres,17/06/1967,luis.torres350@testmail.com,0985857605,"Av. Amazonas N7803 y Mariana de Jesús, Cuenca",28/08/2024 12:00:00,ACTIVO
+Cus351,PASAPORTE,93YCTWXD,Lucía,Ramírez,13/12/1974,lucia.ramirez351@testmail.com,0954846529,"Av. 6 de Diciembre N6012 y 10 de Agosto, Ambato",27/07/2024 12:00:00,ACTIVO
+Cus352,PASAPORTE,P3E36JEA,Juan,Ramírez,14/08/1971,juan.ramirez352@testmail.com,0921173849,"Calle Bolívar N7483 y Patria, Cuenca",20/12/2024 12:00:00,ACTIVO
+Cus353,PASAPORTE,BAIZFGLL,Ana,Vera,14/08/2003,ana.vera353@testmail.com,0940571062,"Av. Amazonas N2602 y Naciones Unidas, Quito",29/06/2023 12:00:00,INACTIVO
+Cus354,CEDULA,1715886048,María,Gómez,01/01/1957,maria.gomez354@testmail.com,0922509201,"Av. 6 de Diciembre N5605 y Mariana de Jesús, Guayaquil",06/04/2024 12:00:00,INACTIVO
+Cus355,RUC,1752702611001,Pedro,Gómez,25/06/1990,pedro.gomez355@testmail.com,0992797604,"Av. Amazonas N7489 y Patria, Quito",22/08/2024 12:00:00,ACTIVO
+Cus356,CEDULA,1744952548,Ana,Pérez,29/12/2002,ana.perez356@testmail.com,0935188934,"Av. Shyris N6396 y Sucre, Cuenca",20/12/2024 12:00:00,ACTIVO
+Cus357,PASAPORTE,N10WCXYC,Luis,Mora,17/06/1973,luis.mora357@testmail.com,0966326631,"Av. 9 de Octubre N9874 y Patria, Manta",29/01/2024 12:00:00,INACTIVO
+Cus358,PASAPORTE,NWSLO57P,Lucía,Vera,22/05/1963,lucia.vera358@testmail.com,0954845240,"Av. Shyris N1941 y Orellana, Manta",19/10/2024 12:00:00,ACTIVO
+Cus359,CEDULA,1704723806,Ana,López,14/10/1982,ana.lopez359@testmail.com,0970554402,"Calle Sucre N1630 y Orellana, Guayaquil",05/01/2024 12:00:00,INACTIVO
+Cus360,CEDULA,1749207906,Luis,López,04/02/1973,luis.lopez360@testmail.com,0926613676,"Av. Naciones Unidas N8645 y Orellana, Cuenca",09/10/2024 12:00:00,ACTIVO
+Cus361,PASAPORTE,95AZDFD0,Carlos,Ramírez,30/04/1985,carlos.ramirez361@testmail.com,0996855965,"Av. Colón N1538 y Colón, Manta",30/07/2024 12:00:00,ACTIVO
+Cus362,CEDULA,1700593906,Lucía,Pérez,06/12/1975,lucia.perez362@testmail.com,0964167021,"Av. República N997 y Patria, Manta",26/08/2024 12:00:00,ACTIVO
+Cus363,CEDULA,1737250215,Ana,Martínez,09/03/2001,ana.martinez363@testmail.com,0985930608,"Av. República N8421 y 10 de Agosto, Guayaquil",27/12/2024 12:00:00,ACTIVO
+Cus364,RUC,1721187274001,María,López,04/10/1972,maria.lopez364@testmail.com,0993317561,"Av. Naciones Unidas N3345 y Loja, Quito",03/08/2024 12:00:00,ACTIVO
+Cus365,PASAPORTE,W66Y0QCT,María,Ramírez,11/07/1963,maria.ramirez365@testmail.com,0976341625,"Av. Naciones Unidas N7097 y Colón, Cuenca",14/07/2023 12:00:00,INACTIVO
+Cus366,PASAPORTE,IH6ZN7Q6,Juan,Torres,23/01/1994,juan.torres366@testmail.com,0929860377,"Av. Amazonas N4344 y Mariana de Jesús, Guayaquil",08/09/2024 12:00:00,ACTIVO
+Cus367,CEDULA,1717772170,Sofía,López,21/03/1941,sofia.lopez367@testmail.com,0972878265,"Av. Amazonas N3451 y Naciones Unidas, Quito",11/06/2024 12:00:00,INACTIVO
+Cus368,RUC,1753662533001,Carlos,López,26/04/1958,carlos.lopez368@testmail.com,0918323953,"Av. Amazonas N1257 y Patria, Cuenca",27/01/2023 12:00:00,INACTIVO
+Cus369,CEDULA,1743159103,Sofía,Ramírez,11/01/1961,sofia.ramirez369@testmail.com,0918507972,"Av. Colón N912 y Colón, Ambato",08/11/2024 12:00:00,ACTIVO
+Cus370,CEDULA,1700388919,María,Mora,11/09/1994,maria.mora370@testmail.com,0920360960,"Av. Naciones Unidas N8180 y 10 de Agosto, Cuenca",17/05/2024 12:00:00,INACTIVO
+Cus371,CEDULA,1732807936,Pedro,Gómez,06/08/1970,pedro.gomez371@testmail.com,0969690910,"Av. Colón N1399 y 10 de Agosto, Ambato",04/07/2024 12:00:00,INACTIVO
+Cus372,PASAPORTE,JOA9656V,Ana,Mora,17/07/1979,ana.mora372@testmail.com,0992027304,"Calle Sucre N5477 y Naciones Unidas, Cuenca",24/10/2024 12:00:00,ACTIVO
+Cus373,RUC,1701116707001,Juan,Gómez,10/11/1962,juan.gomez373@testmail.com,0921075353,"Av. Shyris N2847 y Orellana, Guayaquil",24/11/2023 12:00:00,INACTIVO
+Cus374,PASAPORTE,MTVETN3G,Pedro,Ramírez,22/11/1934,pedro.ramirez374@testmail.com,0948596189,"Av. República N5381 y Loja, Ambato",01/09/2024 12:00:00,ACTIVO
+Cus375,PASAPORTE,387IA8EG,Sofía,Martínez,26/02/1946,sofia.martinez375@testmail.com,0924262811,"Av. Shyris N7459 y Naciones Unidas, Quito",20/11/2023 12:00:00,INACTIVO
+Cus376,CEDULA,1731146757,Pedro,Torres,16/12/1980,pedro.torres376@testmail.com,0915705570,"Av. 6 de Diciembre N4113 y Orellana, Quito",02/12/2024 12:00:00,ACTIVO
+Cus377,PASAPORTE,XXUYE1JK,Carlos,Mora,04/04/1988,carlos.mora377@testmail.com,0932420095,"Av. República N736 y Colón, Ambato",30/03/2023 12:00:00,INACTIVO
+Cus378,PASAPORTE,RKO0Z8HM,Luis,Torres,20/11/1983,luis.torres378@testmail.com,0927414055,"Av. 6 de Diciembre N2208 y Loja, Ambato",16/05/2023 12:00:00,INACTIVO
+Cus379,CEDULA,1706934963,Lucía,Mora,12/05/1995,lucia.mora379@testmail.com,0946487820,"Calle Sucre N2548 y Mariana de Jesús, Quito",20/09/2024 12:00:00,ACTIVO
+Cus380,RUC,1756483713001,Lucía,Ramírez,17/09/1966,lucia.ramirez380@testmail.com,0903763174,"Av. 9 de Octubre N6788 y Colón, Manta",25/10/2024 12:00:00,ACTIVO
+Cus381,CEDULA,1758272593,Luis,López,15/05/1953,luis.lopez381@testmail.com,0934753178,"Av. República N7064 y Colón, Cuenca",01/12/2024 12:00:00,ACTIVO
+Cus382,PASAPORTE,4VDQYJDQ,Lucía,Ramírez,01/11/1952,lucia.ramirez382@testmail.com,0942823428,"Av. Colón N7271 y Naciones Unidas, Ambato",12/06/2024 12:00:00,INACTIVO
+Cus383,CEDULA,1723422133,Pedro,Torres,04/01/1987,pedro.torres383@testmail.com,0986879732,"Av. Shyris N947 y Loja, Ambato",13/07/2024 12:00:00,ACTIVO
+Cus384,RUC,1748934435001,Ana,Martínez,14/04/1987,ana.martinez384@testmail.com,0901940945,"Av. 6 de Diciembre N7535 y Sucre, Ambato",19/06/2023 12:00:00,INACTIVO
+Cus385,RUC,1728949502001,Juan,Gómez,28/08/1959,juan.gomez385@testmail.com,0962360768,"Av. Colón N3834 y Loja, Manta",05/10/2024 12:00:00,ACTIVO
+Cus386,RUC,1726521576001,Luis,Pérez,07/08/1988,luis.perez386@testmail.com,0989566546,"Av. República N9889 y 10 de Agosto, Ambato",15/04/2023 12:00:00,INACTIVO
+Cus387,CEDULA,1704666054,Lucía,López,26/10/1986,lucia.lopez387@testmail.com,0961247130,"Av. Shyris N162 y Patria, Manta",01/07/2024 12:00:00,INACTIVO
+Cus388,PASAPORTE,X0305OUL,Luis,Pérez,25/02/1941,luis.perez388@testmail.com,0910211409,"Av. 6 de Diciembre N5228 y Mariana de Jesús, Ambato",27/07/2024 12:00:00,ACTIVO
+Cus389,RUC,1713997045001,María,Vera,24/09/1940,maria.vera389@testmail.com,0956327703,"Calle Bolívar N9680 y Colón, Guayaquil",21/08/2024 12:00:00,ACTIVO
+Cus390,RUC,1736875269001,Carlos,Mora,27/08/1972,carlos.mora390@testmail.com,0979797525,"Av. República N1740 y Patria, Manta",12/10/2024 12:00:00,ACTIVO
+Cus391,RUC,1748263496001,María,Gómez,02/02/1969,maria.gomez391@testmail.com,0959053754,"Av. Amazonas N5611 y Orellana, Quito",31/07/2023 12:00:00,INACTIVO
+Cus392,CEDULA,1708987266,María,Martínez,06/07/2004,maria.martinez392@testmail.com,0994713739,"Av. Colón N6365 y Loja, Manta",12/12/2024 12:00:00,ACTIVO
+Cus393,PASAPORTE,ZGJ0Z1G2,Sofía,Gómez,11/08/1964,sofia.gomez393@testmail.com,0997075149,"Calle Sucre N8213 y Loja, Cuenca",03/09/2024 12:00:00,ACTIVO
+Cus394,CEDULA,1721607313,Juan,Pérez,01/07/1940,juan.perez394@testmail.com,0904788255,"Calle Bolívar N1817 y Loja, Guayaquil",24/02/2023 12:00:00,INACTIVO
+Cus395,CEDULA,1757274061,Carlos,Martínez,22/04/1967,carlos.martinez395@testmail.com,0908870449,"Av. 6 de Diciembre N483 y Loja, Manta",12/08/2024 12:00:00,ACTIVO
+Cus396,CEDULA,1758794323,Ana,Pérez,03/07/2005,ana.perez396@testmail.com,0900094365,"Calle Bolívar N8111 y Naciones Unidas, Cuenca",30/06/2023 12:00:00,INACTIVO
+Cus397,RUC,1713606943001,Luis,Ramírez,03/08/1982,luis.ramirez397@testmail.com,0972969321,"Av. Shyris N9505 y Patria, Ambato",18/11/2024 12:00:00,ACTIVO
+Cus398,CEDULA,1748548185,Sofía,Vera,24/10/1941,sofia.vera398@testmail.com,0964909412,"Av. Shyris N8025 y Orellana, Guayaquil",30/05/2024 12:00:00,INACTIVO
+Cus399,CEDULA,1714584099,Luis,Vera,26/09/1971,luis.vera399@testmail.com,0908943666,"Av. República N738 y Sucre, Cuenca",24/12/2024 12:00:00,ACTIVO
+Cus400,CEDULA,1710695709,Luis,Mora,31/10/1946,luis.mora400@testmail.com,0930802878,"Av. Shyris N8180 y Patria, Guayaquil",07/03/2024 12:00:00,INACTIVO

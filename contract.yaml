@@ -1,6 +1,6 @@
 
 dataset: clientes_no_productivo
-version: 1.1
+version: 1.3
 description: Dataset sintético bancario con soporte multidentificación (EC) y validación cruzada
 owner: Unidad de Entornos No Productivos
 
@@ -107,3 +107,24 @@ tables:
         required: true
         catalog: estado_cliente
         description: Estado lógico del cliente
+
+    business_rules:
+      - name: edad_minima
+        description: La edad del cliente debe ser mayor o igual a 18 años
+        rule: "edad >= 18"
+
+      - name: cliente_inactivo_antiguedad
+        description: Si el cliente está INACTIVO, la fecha_creacion debe corresponder a una antigüedad mínima de 6 meses
+        rule: "if estado_cliente == 'INACTIVO' then antiguedad_meses(fecha_creacion) >= 6"
+
+      - name: email_valido
+        description: El correo electrónico debe cumplir formato válido y ser controlado
+        rule: "formato_email(email) == true"
+
+      - name: customer_id_unico
+        description: El identificador del cliente debe ser único
+        rule: "unique(customer_id) == true"
+
+      - name: sin_nulos
+        description: Los campos obligatorios no deben contener valores nulos
+        rule: "required_fields_not_null == true"
